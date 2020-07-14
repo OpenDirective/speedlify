@@ -10,6 +10,6 @@ module.exports = {
 		"https://opendirective.net/",
 		"https://musicpracticetools.net/",
 		"http://blog.fullmeasure.uk/",
-		"http://blog.fullmeasure.uk/"	
+		"https://alwaysinmind.info/"	"	
 	]
 };
