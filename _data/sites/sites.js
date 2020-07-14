@@ -6,7 +6,7 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://opendirective.com/",
+		"https://www.opendirective.com/",
 		"https://opendirective.net/",
 		"https://musicpracticetools.net/",
 		"http://blog.fullmeasure.uk/",
